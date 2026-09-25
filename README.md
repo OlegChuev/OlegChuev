@@ -1,1 +1,9 @@
-A seasoned software engineer with over 5 years of professional experience, I specialize in building robust, elegant solutions using Ruby and Go. My work is driven by a passion for creating systems that are both efficient and maintainable, with a focus on clean architecture and thoughtful design.
+```bash
+$ whoami
+> A seasoned software engineer with over 5 years of professional experience,
+> I specialize in building robust, elegant solutions using Ruby and Go.
+> My work is driven by a passion for creating systems that are both
+> efficient and maintainable, with a focus on clean architecture
+> and thoughtful design.
+$ _
+```
